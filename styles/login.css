@@ -63,6 +63,26 @@ footer{
 }
 
 
+/*mobile screen sign-up*/
+@media only screen and (max-width: 768px){
+    .signup-outer{
+        margin-top: -2%;
+        margin-left: 40%;
+    }
+}
+
+
+
+
+/*mobile screen sign-up*/
+@media only screen and (max-width: 480px){
+    .signup-outer{
+        margin-top: -2%;
+        margin-left: 20%;
+    }
+}
+
+
 
 /*beer image animation*/
 .animation {
